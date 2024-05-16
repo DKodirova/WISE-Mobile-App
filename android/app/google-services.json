@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870321475146",
+    "project_id": "wise-test-dbf7d",
+    "storage_bucket": "wise-test-dbf7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870321475146:android:51f8d07a7127a7dd4460b3",
+        "android_client_info": {
+          "package_name": "com.example.wise_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8LMws8Nvbdbf2Bje9YBEfFWcootoO0Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
